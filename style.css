@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://o90cnn3g2.qnssl.com/4a6b0608812d7f84c97dd84d50caa3a8.jpg);
+    background-size: 100%;
+}
+
+.main {
+    border: 0px solid grey;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 10px #888888;
+    position: absolute;
+    top: 150px;
+    bottom: 150px;
+    left: 250px;
+    right: 250px;
+}
